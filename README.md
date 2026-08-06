@@ -84,24 +84,25 @@ hobbies:
 
 ---
 
-## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="28" alt="chart"> Visit History
+## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="28" alt="chart"> GitHub Dashboard
 
 <p align="center">
-  <a href="https://info.flagcounter.com/b6jk">
-    <img src="https://s01.flagcounter.com/count/b6jk/bg_0D1117/txt_C9D1D9/border_30363D/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0" />
-  </a>
+  <!-- GitSkins Premium Card — full profile with contribution graph -->
+  <img src="https://gitskins.com/api/premium-card?username=TEARLESSVVOID&theme=github-dark" alt="GitHub Profile Card" />
 </p>
 
 <p align="center">
-  <i>🌍 Visitors from around the world — each flag represents a country</i>
+  <b>Stats</b> &nbsp;·&nbsp; <b>Languages</b> &nbsp;·&nbsp; <b>Streak</b>
 </p>
 
----
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28" alt="activity"> Contributions Calendar
+<p align="center">
+  <img src="https://gitskins.com/api/stats?username=TEARLESSVVOID&theme=github-dark" alt="GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://gitskins.com/api/languages?username=TEARLESSVVOID&theme=github-dark" alt="Top Languages" />
+</p>
 
 <p align="center">
-  <img src="https://github-3d-contribution-calendar.vercel.app/api?username=TEARLESSVVOID&colorTheme=dark" alt="3D Contribution Calendar" />
+  <img src="https://gitskins.com/api/streak?username=TEARLESSVVOID&theme=github-dark" alt="GitHub Streak" />
 </p>
 
 <p align="center">
