@@ -87,7 +87,13 @@ hobbies:
 ## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="28" alt="chart"> Visit History
 
 <p align="center">
-  <img src="https://github-visitor-counter-tau.vercel.app/api?username=TEARLESSVVOID&theme=dark&displayMode=topCountries&columns=8&maxflags=250&showlabels=true&size=small" alt="Visitor Countries" />
+  <img src="https://profile-counter.glitch.me/TEARLESSVVOID/count.svg" alt="Profile Visitors" />
+</p>
+
+<p align="center">
+  <a href="https://info.flagcounter.com/ddf6">
+    <img src="https://s01.flagcounter.com/countxl/ddf6/bg_0D1117/txt_C9D1D9/border_30363D/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0" />
+  </a>
 </p>
 
 <p align="center">
