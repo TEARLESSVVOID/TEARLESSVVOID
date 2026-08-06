@@ -87,7 +87,7 @@ hobbies:
 ## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="28" alt="chart"> Visit History
 
 <p align="center">
-  <img src="https://github-visitor-counter-tau.vercel.app/api?username=TEARLESSVVOID&theme=dark" alt="Visitor Counter" />
+  <img src="https://github-visitor-counter-tau.vercel.app/api?username=TEARLESSVVOID&theme=dark&columns=5&maxflags=30&showlabels=true" alt="Visitor Counter" />
 </p>
 
 <p align="center">
