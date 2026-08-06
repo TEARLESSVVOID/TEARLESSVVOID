@@ -82,44 +82,39 @@ hobbies:
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" alt="stats"> GitHub Stats
+## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="28" alt="chart"> Visit History
 
 <p align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=TEARLESSVVOID&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEARLESSVVOID&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FTEARLESSVVOID&label=Visitors&countColor=%230e75b6&labelStyle=upper" alt="Visitor Badge" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TEARLESSVVOID&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FTEARLESSVVOID&label=Daily%20Visits&countColor=%230e75b6&labelStyle=upper" alt="Daily Visitors" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TEARLESSVVOID&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <i>📊 Tracking profile visits with real-time statistics</i>
 </p>
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28" alt="activity"> Contribution Graph
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28" alt="activity"> Contributions Calendar
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TEARLESSVVOID&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-3d-contribution-calendar.vercel.app/api?username=TEARLESSVVOID&colorTheme=dark" alt="3D Contribution Calendar" />
 </p>
 
-<!-- Contribution Snake -->
 <p align="center">
+  <!-- Contribution Snake -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TEARLESSVVOID/TEARLESSVVOID/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TEARLESSVVOID/TEARLESSVVOID/output/github-contribution-grid-snake.svg" />
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/TEARLESSVVOID/TEARLESSVVOID/output/github-contribution-grid-snake.svg" />
   </picture>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TEARLESSVVOID&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ---
