@@ -85,15 +85,11 @@ hobbies:
 ## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="28" alt="chart"> Visit History
 
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FTEARLESSVVOID&label=Visitors&countColor=%230e75b6&labelStyle=upper" alt="Visitor Badge" />
+  <img src="https://github-visitor-counter-tau.vercel.app/api?username=TEARLESSVVOID&theme=dark" alt="Visitor Counter" />
 </p>
 
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FTEARLESSVVOID&label=Daily%20Visits&countColor=%230e75b6&labelStyle=upper" alt="Daily Visitors" />
-</p>
-
-<p align="center">
-  <i>📊 Tracking profile visits with real-time statistics</i>
+  <i>🌍 Track visitors from around the world — each flag represents a country</i>
 </p>
 
 ---
