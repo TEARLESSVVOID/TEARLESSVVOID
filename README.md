@@ -87,11 +87,11 @@ hobbies:
 ## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="28" alt="chart"> Visit History
 
 <p align="center">
-  <img src="https://github-visitor-counter-tau.vercel.app/api?username=TEARLESSVVOID&theme=dark&displayMode=flagMap&mapSize=medium" alt="Visitor Map" />
+  <img src="https://github-visitor-counter-tau.vercel.app/api?username=TEARLESSVVOID&theme=dark&displayMode=topCountries&columns=8&maxflags=250&showlabels=true&size=small" alt="Visitor Countries" />
 </p>
 
 <p align="center">
-  <i>🌍 Visitor distribution across the globe — heatmap shows where people visit from</i>
+  <i>🌍 Visitors from around the world — each flag represents a country</i>
 </p>
 
 ---
