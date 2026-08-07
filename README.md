@@ -86,30 +86,9 @@ hobbies:
 
 ## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="28" alt="chart"> GitHub Dashboard
 
-<!-- Premium Card — full profile with contribution graph, constrained to prevent overflow -->
+<!-- Premium Card — full profile with contribution graph -->
 <p align="center">
   <img src="https://gitskins.com/api/premium-card?username=TEARLESSVVOID&theme=github-dark" alt="GitHub Profile Card" width="100%" />
-</p>
-
-<br>
-
-<!-- Stats + Languages in a responsive table layout — using github-readme-stats for proper alignment and percentage placement -->
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=TEARLESSVVOID&show_icons=true&theme=github_dark&hide_border=true&border_radius=10" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEARLESSVVOID&layout=compact&theme=github_dark&hide_border=true&border_radius=10" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<!-- Streak Card — using github-readme-streak-stats for clean layout -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TEARLESSVVOID&theme=github-dark&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
 
 <br>
