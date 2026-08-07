@@ -86,25 +86,35 @@ hobbies:
 
 ## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="28" alt="chart"> GitHub Dashboard
 
+<!-- Premium Card — full profile with contribution graph, constrained to prevent overflow -->
 <p align="center">
-  <!-- GitSkins Premium Card — full profile with contribution graph -->
-  <img src="https://gitskins.com/api/premium-card?username=TEARLESSVVOID&theme=github-dark" alt="GitHub Profile Card" />
+  <img src="https://gitskins.com/api/premium-card?username=TEARLESSVVOID&theme=github-dark" alt="GitHub Profile Card" width="100%" />
 </p>
 
-<p align="center">
-  <b>Stats</b> &nbsp;·&nbsp; <b>Languages</b> &nbsp;·&nbsp; <b>Streak</b>
-</p>
+<br>
 
-<p align="center">
-  <img src="https://gitskins.com/api/stats?username=TEARLESSVVOID&theme=github-dark" alt="GitHub Stats" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://gitskins.com/api/languages?username=TEARLESSVVOID&theme=github-dark" alt="Top Languages" />
-</p>
+<!-- Stats + Languages in a responsive table layout for better alignment -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://gitskins.com/api/stats?username=TEARLESSVVOID&theme=github-dark" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://gitskins.com/api/languages?username=TEARLESSVVOID&theme=github-dark" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
+<br>
+
+<!-- Streak Card -->
 <p align="center">
   <img src="https://gitskins.com/api/streak?username=TEARLESSVVOID&theme=github-dark" alt="GitHub Streak" />
 </p>
 
+<br>
+
+<!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TEARLESSVVOID&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="Activity Graph" />
 </p>
