@@ -93,23 +93,23 @@ hobbies:
 
 <br>
 
-<!-- Stats + Languages in a responsive table layout for better alignment -->
+<!-- Stats + Languages in a responsive table layout — using github-readme-stats for proper alignment and percentage placement -->
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://gitskins.com/api/stats?username=TEARLESSVVOID&theme=github-dark" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=TEARLESSVVOID&show_icons=true&theme=github_dark&hide_border=true&border_radius=10" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://gitskins.com/api/languages?username=TEARLESSVVOID&theme=github-dark" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEARLESSVVOID&layout=compact&theme=github_dark&hide_border=true&border_radius=10" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 <br>
 
-<!-- Streak Card -->
+<!-- Streak Card — using github-readme-streak-stats for clean layout -->
 <p align="center">
-  <img src="https://gitskins.com/api/streak?username=TEARLESSVVOID&theme=github-dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TEARLESSVVOID&theme=github-dark&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
 
 <br>
